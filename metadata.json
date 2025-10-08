@@ -1,0 +1,4 @@
+{
+  "name": "Real-Time Processed Frame Viewer",
+  "description": "A web-based viewer and debug tool to display processed video frames, simulating the output from a native computer vision application. It showcases dynamic frame and statistics updates."
+}
